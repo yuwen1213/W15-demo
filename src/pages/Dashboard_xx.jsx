@@ -5,7 +5,7 @@ const Dashboard_xx = () => {
       <p>Guest name: Yuwen Zheng </p>
       <p>Guest student ID: 211410740</p>
       <p>Supabase email: wunhy2580@gmail.com</p>
-      <p>Supabase user id:a00dbe3b-617f-4fb1-9ea0- d5548a2f9035</p>
+      <p>Supabase user id:8347e2ef-d482-440a-baef-f0e8830770e3</p>
     </>
   );
 };
