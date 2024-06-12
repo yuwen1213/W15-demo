@@ -44,7 +44,7 @@ const Landing_40 = () => {
                   <li>
                     <Link
                       className='hover:text-accent-400 transition-colors'
-                      to='/contact'
+                      to='/landing'
                     >
                       Contact us
                     </Link>
